@@ -1,0 +1,7 @@
+setup.py
+aerial_robotics.egg-info/PKG-INFO
+aerial_robotics.egg-info/SOURCES.txt
+aerial_robotics.egg-info/dependency_links.txt
+aerial_robotics.egg-info/requires.txt
+aerial_robotics.egg-info/top_level.txt
+proj2_2/__init__.py
